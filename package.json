@@ -1,0 +1,28 @@
+{
+  "name": "maro-rn",
+  "version": "0.0.10",
+  "description": "react-native api 库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "api",
+    "request",
+    "wechat",
+    "taro",
+    "expo"
+  ],
+  "author": {
+    "name": "wangyongfeng"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "expo-image-picker": "^5.0.2",
+    "expo-location": "^5.0.1",
+    "react-native-image-zoom-viewer": "^2.2.13",
+    "react-native-root-siblings": "^3.1.0",
+    "react-native-unimodules": "^0.4.1"
+  }
+}
